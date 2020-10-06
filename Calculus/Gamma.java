@@ -23,7 +23,7 @@ public class Gamma {
    }
   	 } catch (InputMismatchException ime) {
   		 s.close();
-  		 System.exit(0);
+  		 System.exit(-1);
   	 }
   	 
    }
